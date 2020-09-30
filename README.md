@@ -1,5 +1,5 @@
 # Snake-Game
-If yoy want to create a snake game using Python then you should first install pygame. 
+If you want to create a snake game using Python then you should first install pygame. 
 Basically pygame is important for every project in which you have created a game. Pygame installed 
 by using command "pip install pygame".
 After installing create a window using function "pygame.display.set_mode((x,y))" here, x and y are
